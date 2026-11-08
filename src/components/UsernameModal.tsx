@@ -66,7 +66,7 @@ export const UsernameModal: React.FC<UsernameModalProps> = ({
               required
               value={username}
               onChange={(e) => setUsername(e.target.value)}
-              placeholder="e.g. Juan Dela Cruz / ScienceWhiz2026"
+              placeholder="e.g., Alex Rivera / ScienceWhiz2026"
               className="w-full px-4 py-2.5 rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 font-medium"
             />
           </div>

@@ -98,7 +98,7 @@ export const ExamineeWelcomeGate: React.FC<ExamineeWelcomeGateProps> = ({ onRegi
                   setUsername(e.target.value);
                   if (error) setError('');
                 }}
-                placeholder="e.g., Alvin Dela Cruz or John_STEM"
+                placeholder="e.g., Alex Rivera or STEM_Scholar2026"
                 className="w-full px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100 font-medium placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-blue-600 transition-all text-sm"
               />
             </div>

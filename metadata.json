@@ -1,0 +1,6 @@
+{
+  "name": "DOST Project REACH Mock Exam",
+  "description": "DOST-SEI Scholarship Qualifying Mock Examination practice portal with the complete 120-question exam, detailed explanations, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
